@@ -6,7 +6,7 @@ def factorial(n):
 result = factorial(5)
 print(f"Factorial of 5 is: {result}")
 
-#this is the change what we wanted
+# comment hakdog
 
 def fibonacci_sequence(n):
  sequence = [0, 1]
